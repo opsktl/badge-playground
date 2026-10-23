@@ -1,2 +1,3 @@
-# badge-playground
-Playground repository
+# dev-journal
+
+Personal development journal.
